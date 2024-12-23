@@ -7,10 +7,10 @@ const Portfolio = () => {
 
     const portfolios = [
         {
-            id: 1,
-            src: gekko,
-            demo: "https://gekko-erxp.onrender.com",
-            code: "https://github.com/Espi5730/Gekko"
+            id: 2,
+            src: joestable,
+            demo: "https://drive.google.com/file/d/1a4EKNgnv0HPPyRVUuPRrNR0pqo7-EAIh/view?usp=sharing",
+            code: "https://gitfront.io/r/Brice12347/Cw1ffYgjrbjc/RestaurantReview/"
 
 
         },
