@@ -1,6 +1,7 @@
 import React from 'react';
 import joestable from '../assets/portfolio/joestable.png';
 import marketplace from '../assets/portfolio/marketplace.png';
+import gekko from '../assets/portfolio/gekko.png';
 // import { Link } from "react-router-dom";
 //import { Link } from "react-scroll";
 const Portfolio = () => {
@@ -8,7 +9,7 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: joestable,
+            src: gekko,
             demo: "https://gekko-erxp.onrender.com",
             code: "https://github.com/Espi5730/Gekko"
 
