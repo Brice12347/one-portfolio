@@ -11,7 +11,7 @@ const About = () => {
                     </p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Hello, my name is Brice Patchou. I am currently a sophomore studying Computer Science and Business Administration. One important thing you should know about me is that I am the type of person who loves to optimize my life using computer science. I enjoy learning new ways to improve my skills and simplify repetitive tasks. Recently, I learned how to use the FPDF library to create PDF cover letters automatically, which saved me a lot of time. My ultimate career goal is to use my skills to contribute to a product that can positively impact the world.
+                    Hello, my name is Brice Patchou. I am currently a Junior studying Computer Science and Business Administration. One important thing you should know about me is that I am the type of person who loves to optimize my life using computer science. I enjoy learning new ways to improve my skills and simplify repetitive tasks. Recently, I learned how to use the FPDF library to create PDF cover letters automatically, which saved me a lot of time. My ultimate career goal is to use my skills to contribute to a product that can positively impact the world.
                 </p>
 
                 <br />
