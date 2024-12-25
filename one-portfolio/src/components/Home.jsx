@@ -12,7 +12,7 @@ const Home = () => {
                         I am a Computer Science Student
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I have been coding since the 5th grade. Currently, I work as a Teaching Assistant, where I help teach a C++ class of 400 students with topics ranging from Object Oriented Programming to Recursion.
+                        I have been coding since the 5th grade. Currently, I am recruiting to have an internship for Summer of 2025, where I will use my expertise to contribute to the financial growth of a company.
                     </p>
                     <div>
                         <Link to='portfolio' smooth duration={500} className='text-white group w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
