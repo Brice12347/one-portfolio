@@ -19,7 +19,7 @@ const Portfolio = () => {
         {
             id: 2,
             src: project,
-            demo: "https://drive.google.com/file/d/1a4EKNgnv0HPPyRVUuPRrNR0pqo7-EAIh/view?usp=sharing",
+            demo: "https://drive.google.com/file/d/1rsrvHE10aslPjmZz17Kon1s10cOwJ4rc/view?usp=sharing",
             code: "https://github.com/sidsrikanth1/csci-467-final-project"
 
 
@@ -27,7 +27,7 @@ const Portfolio = () => {
         {
             id: 3,
             src: joestable,
-            demo: "https://drive.google.com/file/d/1rsrvHE10aslPjmZz17Kon1s10cOwJ4rc/view?usp=sharing",
+            demo: "https://drive.google.com/file/d/1a4EKNgnv0HPPyRVUuPRrNR0pqo7-EAIh/view?usp=sharing",
             code: "https://gitfront.io/r/Brice12347/Cw1ffYgjrbjc/RestaurantReview/"
 
 
